@@ -13,7 +13,7 @@ El sistema recomienda una categoría. La decisión final debe permanecer en mano
 3. Un modelo de Regresión Logística estima la categoría más probable.
 4. El prototipo muestra la categoría sugerida.
 5. El técnico revisa el resultado y lo confirma o corrige.
-6. 
+   
 ## Tecnologías
 - Python
 - pandas y NumPy para manipulación de datos
