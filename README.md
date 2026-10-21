@@ -93,6 +93,9 @@ Nota: estos comandos presuponen que los archivos y rutas existen en el repositor
   
 Autor
 Wilson Fernando Pinzón Guacaneme
+
 perfil linkedin.co:  https://www.linkedin.com/in/wilson-fernando-pinzon-guacaneme/
+
 Proyecto académico de Ingeniería de Sistemas
+
 IT-AI Classifier — Inteligencia artificial aplicada al Soporte TI
